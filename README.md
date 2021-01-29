@@ -2,7 +2,7 @@
 This is an application that helps product managers collect feedback from users who use their products.
 Build and deploy fullstack web apps with NodeJS, React, Redux, Express, and MongoDB.
 
-![image](https://github.com/Houshilian/Feedback-Collection-Application-MERN-Stack/blob/main/show.png)
+![image](https://github.com/Houshilian/Feedback-Collection-Application/blob/main/show.png)
 
 #### Have a try
 ```
